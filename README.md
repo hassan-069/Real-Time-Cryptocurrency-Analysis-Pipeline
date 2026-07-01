@@ -344,3 +344,7 @@ The extracted cryptocurrency dataset may include fields such as:
 GitHub: [hassan-069](https://github.com/hassan-069)
 
 ---
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
